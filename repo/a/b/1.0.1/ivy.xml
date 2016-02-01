@@ -1,5 +1,5 @@
 <ivy-module xmlns:e="http://ant.apache.org/ivy/extra" version="2.0">
-<info organisation="a" module="b" revision="1.0.0" status="release" publication="20160201120702">
+<info organisation="a" module="b" revision="1.0.1" status="release" publication="20160201120702">
 	<description>a</description>
 </info>
 <configurations>
